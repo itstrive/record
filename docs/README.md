@@ -2,7 +2,7 @@
 home: true
 # sidebar: auto
 # heroImage: https://www.baidu.com/img/bd_logo1.png?where=super
-actionText: 开始 →
+actionText: Start →
 actionLink: /A.md
 features:
 - title: 简洁至上
